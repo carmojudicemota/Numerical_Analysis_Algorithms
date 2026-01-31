@@ -1,0 +1,5 @@
+*.jl linguist-language=Julia
+*.md linguist-language=Markdown
+*.txt linguist-language=Text
+*.py linguist-language=Python
+*.m linguist-language=MATLAB
